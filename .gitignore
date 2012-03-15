@@ -1,0 +1,16 @@
+#*
+*~
+/.coverage
+/dist
+*_flymake.py
+*#*
+.DS_Store
+/build
+/temp
+*.db
+*.swp
+*.pyc
+/build
+/src-build
+*.tar.gz
+*.pybundle
